@@ -114,8 +114,7 @@ A web-based app to help users manage and track their favorite movies, TV shows, 
 
 ## 🌐 Connect With Me
 📧 **abdulhaseeb0929@gmail.com**  
-📍 **Ali Town, Lahore**
-
+📍 03324244033
 ---
 
 ⭐️ *Feel free to explore my repositories. Collaboration and feedback are always welcome!*

@@ -28,6 +28,10 @@ I enjoy creating real-world applications that solve practical problems and deliv
 - MySQL, SQL  
 - MongoDB (Mongoose)
 
+- ### **Android Developer**
+- Java
+- Revelant XML files for UI
+
 ### **Programming Languages**
 - C++, C, Java  
 - C# (Unity)  
